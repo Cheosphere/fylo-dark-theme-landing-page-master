@@ -767,7 +767,7 @@ body {
     }
 
     .footer_menu_wrapper {
-        width: fit-content;
+        width: max-content;
         height: fit-content;
         flex-wrap: nowrap;
     }
